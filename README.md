@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi 👋, I'm John</h1>
 
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+<h3 align="center">A young 🤓 front end developer from Paris 🇮🇳</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=john/> </p>
 
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/john" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="john" /></a> </p>
 
 
 - 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
 - 💬 Ask me about **react, vue and gsap**
 
-- 📫 Reach me at **rahuldkjain@gmail.com**
+- 📫 Reach me at **info.animejohn@gmail.com**
 
-- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
+- 👨‍💻 All of my projects are available at [john](https://john.github.io)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
@@ -27,7 +27,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
 
-**📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
+**📕 Latest dev.to posts [@john](https://dev.to/rahuldkjain)**
 <!-- BLOG-POST-LIST:START -->
 - [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
 - [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
